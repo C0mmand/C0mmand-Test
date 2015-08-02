@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="C0mmand REPO" name="C0mmand REPO" version="0.0.2" provider-name="C0mmand">
+	<extension point="xbmc.addon.repository" name="C0mmand REPO">
+		<info compressed="false">http://raw.github.com/C/C0mmand REPO/addons.xml</info>
+		<checksum>http://raw.github.com/C0mmand/C0mmand REPO/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/C0mmand/C0mmand REPO/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>C0mmand Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
